@@ -1,6 +1,6 @@
 return {
--- RuRu
-[9753472529] = true,
+-- inf & keey
+[3150781443] = true,
 -- XenoLuffy
 [2394422889] = true,
 -- Prince
