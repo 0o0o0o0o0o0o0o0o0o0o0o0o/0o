@@ -1,8 +1,4 @@
 return {
--- RuRu
-[3150781443] = true,
--- XenoLuffy
-[2394422889] = true,
 -- Prince
 [6041962804] = true,
 [8690830135] = true,
@@ -12,10 +8,6 @@ return {
 -- Witt
 [7024692831] = true,
 [9715205841] = true,
--- Foxy
-[3053406370] = true,
-[2289904334] = true,
-[8000676747] = true,
 -- Benson
 [3568578933] = true,
 [9680885568] = true,
