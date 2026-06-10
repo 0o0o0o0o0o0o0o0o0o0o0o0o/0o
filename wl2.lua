@@ -1,5 +1,5 @@
 return {
--- inf & keey
+-- RuRu
 [3150781443] = true,
 -- XenoLuffy
 [2394422889] = true,
